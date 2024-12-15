@@ -18,7 +18,7 @@ export default function App() {
 ```
 ###### Для передачи параметров в HomeScreen определяется переменная 
 ``` JS
-const parameter = "Москалев Артём";
+const parameter = "Камила Гаджиева";
 ```
 ###### Чтобы в DetailsScreen принять через route
 ``` JS
@@ -32,5 +32,4 @@ const { parameter } = route.params;
 ``` JS
 eas build -p android --profile preview
 ```
-## И досутпен для скачивания по ссылке
-https://expo.dev/accounts/appurupai/projects/ReactTest/builds/bdd5ab4b-3541-46b7-9109-01cf07ff3188
+
