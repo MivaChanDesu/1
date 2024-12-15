@@ -2,7 +2,7 @@ import React from "react";
 import { View, Button, StyleSheet } from "react-native";
 
 export default function HomeScreen({ navigation }) {
-  const parameter = "Москалев Артём";
+  const parameter = "Гаджиева Камила";
 
   return (
     <View style={styles.container}>
